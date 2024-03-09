@@ -1,3 +1,2 @@
-frase1
-frase2
-frase3
+SciPy is a collection of mathematical algorithms and convenience functions built on the Numpy extension of Python.
+SciPy on Python makes a powerful programming language available for use in developing sophisticated programs and specialized applications.

@@ -1,5 +1,5 @@
-Inventada por Dennis Ritchie, C reulta do desenvolvimento de uma linguagem chamada BCPL, com bases em UNIX.
-    Por Anos o padrão C foi a versão fornecida com o SO UNIX.
-    Com a Popularidade dos Microcomputadores, muitos usuários desenvolveram suas próprias versões de C
-    Embora essas versões fossem até certo ponto compatíveis, faltava um padrão para a Linguagem
-    ANSI (American National Standards Institute) em 1983 cria comit~e com o popósito padronizativo.
+With SciPy an interactive Python session becomes a data-processing and system protyping environment
+rivaling systems such as MATLAB, IDL, Octave, R-Lab, and SciLab.
+
+Makes a powerful programming language available for use in developing sophisticated programs and specialized aplications.
+Scientific applications using SciPy benefit from the development of addicional modules in numerous niche's of the software landscape by developers across the world.

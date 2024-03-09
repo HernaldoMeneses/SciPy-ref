@@ -1,1 +1,8 @@
-O ANSI (American National Standards Institute) em 1983, estabeleceu um comitê que definiria a Linguagem C
+For brevity and convenience, we will often assume that the main packages 
+(numpy, scipy, and matplotlib)
+have been imported as:
+
+>>> import numpy as np
+>>> import scipy as sp 
+>>> import matplotlib as mpl
+>>> import matplotlib.pyplot as plt
