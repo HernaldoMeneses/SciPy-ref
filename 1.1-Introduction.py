@@ -34,6 +34,11 @@ SciPY_Organization = {
     'weave':'C/C++ integration',
 }
 
+'''
+    Find documentation
+    http://docs.scipy.org/
+'''
+
 import pandas as pd
 # Criar DataFrame
 df = pd.DataFrame(list(SciPY_Organization.items()), columns=['Subpackage', 'Description'])
