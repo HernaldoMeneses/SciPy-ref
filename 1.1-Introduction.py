@@ -54,6 +54,4 @@ from scipy import linalg, optimize
     Before looking at the sub-packages individually, we will first look at some of these common functions in basic array functions from numpy
 '''
 
-#1.1.2 Finding Documentation
-#pag.8/1229
-#file:///L:/Linear_/Base-TI/scipy-ref.pdf
+
